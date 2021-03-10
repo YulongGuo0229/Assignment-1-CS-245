@@ -1,0 +1,1 @@
+For my code in part two, since I used insertion sort as my quadraticSort, so the running time for my whole codes are Θ(n​^2​). And the space for my code is θ(n) since in main function of my code, I asked users to input the size of array and declare the size of array which takes linear spaces.
